@@ -59,6 +59,7 @@ Open Unity Hub and add the project by selecting the folder where you cloned/down
 
 Ensure that you have the necessary Unity packages installed (refer to the Requirements section).
 
+unity is used C# as a language to build games
 
 Usage
 
